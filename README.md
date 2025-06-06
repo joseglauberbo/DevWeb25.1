@@ -11,7 +11,7 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 
 | Nº Aula | Data       | Tópicos                                                                 | Materiais Utilizados |
 |--------:|------------|-------------------------------------------------------------------------|-----------------------|
-| 1       | 04/06/2025 | Aula de apresentação da disciplina: ementa, avaliações, obrigatoriedades e descrição do projeto final |                       |
+| 1       | 04/06/2025 | Aula de apresentação da disciplina: ementa, avaliações, obrigatoriedades e descrição do projeto final | [Slide aula 1](aulas/aula1.pdf)|
 | 2       | 09/06/2025 | História e evolução do desenvolvimento web. Ferramentas e tecnologias   |                       |
 | 3       | 11/06/2025 | Versionamento de código                                                 |                       |
 | 4       | 16/06/2025 | JS, HTML e CSS                                                          |                       |
