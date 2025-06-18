@@ -16,7 +16,7 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 3       | 11/06/2025 | Versionamento de código                                                 | [Slide aula 3](aulas/aula3.pdf)|
 | 4       | 16/06/2025 | Node.js, Express e arquitetura REST                                     | [Slide aula 4](aulas/aula4.pdf)|
 | 5       | 18/06/2025 | Miniteste 1 - Criação de servidor inicial.                              | [Miniteste 1](aulas/miniteste1.pdf) e [Form submissão](https://forms.gle/ZbQkbbHstqUUZyrR7)|
-| 6       | 23/06/2025 | Javascript x Typescript e introdução à API RESTful. Miniteste 1         |                       |
+| 6       | 23/06/2025 | Javascript x Typescript e introdução à API RESTful.                     |                       |
 | 8       | 30/06/2025 | Definição de requisitos. Modelo de negócios. Métodos HTTP, códigos e mensagens de erro |              |
 | 9       | 02/07/2025 | Introdução à Arquitetura de Camadas                                     |                       |
 | 10      | 07/07/2025 | PRÁTICA – Arquitetura de camadas                                        |                       |
