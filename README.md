@@ -11,13 +11,12 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 
 | Nº Aula | Data       | Tópicos                                                                 | Materiais Utilizados |
 |--------:|------------|-------------------------------------------------------------------------|-----------------------|
-| 1       | 04/06/2025 | Aula de apresentação da disciplina: ementa, avaliações, obrigatoriedades e descrição do projeto final | [Slide aula 1](aulas/aula1.pdf)|
-| 2       | 09/06/2025 | História e evolução do desenvolvimento web. Ferramentas e tecnologias   |                       |
-| 3       | 11/06/2025 | Versionamento de código                                                 |                       |
-| 4       | 16/06/2025 | JS, HTML e CSS                                                          |                       |
-| 5       | 18/06/2025 | Node.js, Express e arquitetura REST                                     |                       |
+| 1       | 04/06/2025 | Aula de apresentação da disciplina: ementa, avaliações e etc            | [Slide aula 1](aulas/aula1.pdf)|
+| 2       | 09/06/2025 | História e evolução do desenvolvimento web. Ferramentas e tecnologias   | [Slide aula 2](aulas/aula2.pdf)|
+| 3       | 11/06/2025 | Versionamento de código                                                 | [Slide aula 3](aulas/aula3.pdf)|
+| 4       | 16/06/2025 | Node.js, Express e arquitetura REST                                     | [Slide aula 4](aulas/aula4.pdf)|
+| 5       | 18/06/2025 | Miniteste 1 - Criação de servidor inicial.                              |                       |
 | 6       | 23/06/2025 | Javascript x Typescript e introdução à API RESTful. Miniteste 1         |                       |
-| 7       | 25/06/2025 | 1º Acompanhamento de projeto                                             |                       |
 | 8       | 30/06/2025 | Definição de requisitos. Modelo de negócios. Métodos HTTP, códigos e mensagens de erro |              |
 | 9       | 02/07/2025 | Introdução à Arquitetura de Camadas                                     |                       |
 | 10      | 07/07/2025 | PRÁTICA – Arquitetura de camadas                                        |                       |
