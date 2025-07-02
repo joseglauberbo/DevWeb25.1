@@ -18,7 +18,7 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 5       | 18/06/2025 | Miniteste 1 - Criação de servidor inicial.                              | [Miniteste 1](aulas/miniteste1.pdf) e [Form submissão](https://forms.gle/ZbQkbbHstqUUZyrR7)|
 | 6       | 23/06/2025 | Javascript x Typescript e introdução à API RESTful.                     | [Slide aula 6](aulas/aula6.pdf) e [Form teste](https://forms.gle/6i9LZKYBcyiEobJP8)                      |
 | 8       | 30/06/2025 | Definição de requisitos. Modelo de negócios. Métodos HTTP, códigos e mensagens de erro | [Slide aula 8](aulas/aula8.pdf) e [Slide aula 8](aulas/aula81.pdf)             |
-| 9       | 02/07/2025 | Introdução à Arquitetura de Camadas                                     |                       |
+| 9       | 02/07/2025 | Introdução à Arquitetura de Camadas                                     |[Slide aula 9](aulas/aula9.pdf)                       |
 | 10      | 07/07/2025 | PRÁTICA – Arquitetura de camadas                                        |                       |
 | 11      | 09/07/2025 | Laboratório de Banco de Dados. Miniteste 2                              |                       |
 | 12      | 14/07/2025 | 2º Acompanhamento de projeto                                             |                       |
