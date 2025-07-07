@@ -20,7 +20,7 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 8       | 30/06/2025 | Definição de requisitos. Modelo de negócios. Métodos HTTP, códigos e mensagens de erro | [Slide aula 8](aulas/aula8.pdf) e [Slide aula 8](aulas/aula81.pdf)             |
 | 9       | 02/07/2025 | Introdução à Arquitetura de Camadas                                     |[Slide aula 9](aulas/aula9.pdf)|
 | 10      | 07/07/2025 | PRÁTICA – Arquitetura de camadas                                        |[Slide aula 10](aulas/aula10.pdf)|
-| 11      | 09/07/2025 | Laboratório de Banco de Dados. Miniteste 2                              |[Laboratório Bando de de dados](https://encurtador.com.br/BNO45)|
+| 11      | 09/07/2025 | Laboratório de Banco de Dados. Miniteste 2                              |[Laboratório Banco de de dados](https://encurtador.com.br/BNO45)|
 | 12      | 14/07/2025 | 2º Acompanhamento de projeto                                             |                       |
 | 13      | 16/07/2025 | 3º Acompanhamento de projeto. Entrega 1                                 |                       |
 | 14      | 21/07/2025 | Funcionalidades avançadas e boas práticas APIs RESTful I                |                       |
