@@ -21,7 +21,7 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 9       | 02/07/2025 | Introdução à Arquitetura de Camadas                                     |[Slide aula 9](aulas/aula9.pdf)|
 | 10      | 07/07/2025 | PRÁTICA – Arquitetura de camadas                                        |[Slide aula 10](aulas/aula10.pdf)|
 | 11      | 09/07/2025 | Laboratório de Banco de Dados. Miniteste 2                              |[Laboratório Banco de de dados](https://encurtador.com.br/BNO45)|
-| 12      | 14/07/2025 | 2º Acompanhamento de projeto e apresentação da Documentação             |[Link da documentação: https://docs.google.com/document/d/1MWgy05bVqY-XpS94MN9547IHQQD2CYNVh6NZ-eTQZa4/edit?usp=sharing]|
+| 12      | 14/07/2025 | 2º Acompanhamento de projeto e apresentação da Documentação             |[Link da documentação] (https://docs.google.com/document/d/1MWgy05bVqY-XpS94MN9547IHQQD2CYNVh6NZ-eTQZa4/edit?usp=sharing)|
 | 13      | 16/07/2025 | 3º Acompanhamento de projeto. Entrega 1                                 |                       |
 | 14      | 21/07/2025 | Funcionalidades avançadas e boas práticas APIs RESTful I                |                       |
 | 15      | 23/07/2025 | Validação de dados no backend                                            |                       |
