@@ -22,9 +22,9 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 10      | 07/07/2025 | PRÁTICA – Arquitetura de camadas                                        |[Slide aula 10](aulas/aula10.pdf)|
 | 11      | 09/07/2025 | Laboratório de Banco de Dados. Miniteste 2                              |[Laboratório Banco de de dados](https://encurtador.com.br/BNO45)|
 | 12      | 14/07/2025 | 2º Acompanhamento de projeto e apresentação da Documentação             |[Link da documentação](https://docs.google.com/document/d/1MWgy05bVqY-XpS94MN9547IHQQD2CYNVh6NZ-eTQZa4/edit?usp=sharing)|
-| 13      | 16/07/2025 | 3º Acompanhamento de projeto. Entrega 1                                 |                       |
-| 14      | 21/07/2025 | Funcionalidades avançadas e boas práticas APIs RESTful I                |                       |
-| 15      | 23/07/2025 | Validação de dados no backend                                            |                       |
+| 13      | 16/07/2025 | 3º Acompanhamento de projeto.                                           |                       |
+| 14      | 21/07/2025 | 1ª entrega projeto                                                      |[Link de entrega](https://forms.gle/86gHeeyfrHZUBLW67)|
+| 15      | 23/07/2025 | Funcionalidades avançadas e boas práticas APIs RESTful I & Validação de dados no backend         |                       |
 | 16      | 28/07/2025 | PRÁTICA – Autenticação e Autorização                                    |                       |
 | 17      | 30/07/2025 | Testes de Backend – Testes unitários                                    |                       |
 | 18      | 04/08/2025 | Testes de Backend – Testes de rota                                      |                       |
