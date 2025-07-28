@@ -25,7 +25,7 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 13      | 16/07/2025 | 3º Acompanhamento de projeto.                                           |                       |
 | 14      | 21/07/2025 | 1ª entrega projeto                                                      |[Link de entrega](https://forms.gle/86gHeeyfrHZUBLW67)|
 | 15      | 23/07/2025 | Funcionalidades avançadas e boas práticas APIs RESTful I & Validação de dados no backend  |[Slide aula 15](aulas/aula15.pdf)                 |
-| 16      | 28/07/2025 | PRÁTICA – Autenticação e Autorização                                    |                       |
+| 16      | 28/07/2025 | PRÁTICA – Autenticação e Autorização                                    |[Laboratório Autenticação e Autorização](https://docs.google.com/document/d/1_0mFIHrHtymhN1EI62MTysMgo7GcVS7nWA9EB__oo8U/edit?usp=sharing)                       |
 | 17      | 30/07/2025 | Testes de Backend – Testes unitários                                    |                       |
 | 18      | 04/08/2025 | Testes de Backend – Testes de rota                                      |                       |
 | 19      | 06/08/2025 | PRÁTICA – Testes de backend. Miniteste 3                                |                       |
