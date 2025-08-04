@@ -26,21 +26,20 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 14      | 21/07/2025 | 1ª entrega projeto                                                      |[Link de entrega](https://forms.gle/86gHeeyfrHZUBLW67)|
 | 15      | 23/07/2025 | Funcionalidades avançadas e boas práticas APIs RESTful I & Validação de dados no backend  |[Slide aula 15](aulas/aula15.pdf)                 |
 | 16      | 28/07/2025 | PRÁTICA – Autenticação e Autorização                                    |[Laboratório Autenticação e Autorização](https://docs.google.com/document/d/1_0mFIHrHtymhN1EI62MTysMgo7GcVS7nWA9EB__oo8U/edit?usp=sharing)                       |
-| 17      | 30/07/2025 | Testes de Backend – Testes unitários                                    |                       |
-| 18      | 04/08/2025 | Testes de Backend – Testes de rota                                      |                       |
-| 19      | 06/08/2025 | PRÁTICA – Testes de backend. Miniteste 3                                |                       |
-| 20      | 11/08/2025 | 4º Acompanhamento de projeto                                             |                       |
-| 21      | 13/08/2025 | 5º Acompanhamento de projeto. Entrega 2                                 |                       |
-| 22      | 18/08/2025 | Frameworks web frontend I                                               |                       |
-| 23      | 20/08/2025 | Frameworks web frontend II. Miniteste 4                                 |                       |
-| 24      | 25/08/2025 | Integração Backend com Frontend                                         |                       |
-| 25      | 27/08/2025 | Testes de frontend                                                       |                       |
-| 26      | 01/09/2025 | 6º Acompanhamento de projeto                                             |                       |
-| 27      | 03/09/2025 | 7º Acompanhamento de projeto. Entrega 3                                 |                       |
-| 28      | 08/09/2025 | Apresentação do projeto final                                           |                       |
-| 29      | 10/09/2025 | Apresentação do projeto final                                           |                       |
-| 30      | 15/09/2025 | Reposição                                                               |                       |
-| 31      | 22/09/2025 | Finalização da disciplina                                               |                        |
+| 17      | 30/07/2025 | Funcionalidades avançadas II                                            |[Slide aula 15](aulas/aula15.pdf)|
+| 18      | 06/08/2025 | Testes de Backend – Testes unitários e de Rota                          |                       |
+| 19      | 11/08/2025 | Prática Testes de backend                                               |                       |
+| 20      | 13/08/2025 | 4º Acompanhamento de projeto. Entrega 2                                 |                       |
+| 21      | 18/08/2025 | Frameworks web frontend I                                               |                       |
+| 22      | 20/08/2025 | Frameworks web frontend II. Miniteste 4                                 |                       |
+| 23      | 25/08/2025 | Integração Backend com Frontend                                         |                       |
+| 24      | 27/08/2025 | Testes de frontend                                                       |                       |
+| 25      | 01/09/2025 | 6º Acompanhamento de projeto                                             |                       |
+| 26      | 03/09/2025 | 7º Acompanhamento de projeto. Entrega 3                                 |                       |
+| 27      | 08/09/2025 | Apresentação do projeto final                                           |                       |
+| 28      | 10/09/2025 | Apresentação do projeto final                                           |                       |
+| 29      | 15/09/2025 | Reposição                                                               |                       |
+| 30      | 22/09/2025 | Finalização da disciplina                                               |                        |
 
 
 ## Projeto
@@ -54,3 +53,4 @@ Formulário de subsmissão do projeto:
 3ª entrega:
 
 ## Planilha de notas
+
