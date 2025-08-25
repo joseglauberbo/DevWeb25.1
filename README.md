@@ -32,7 +32,7 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 20      | 13/08/2025 | Testes de backend                                                       |[Slide aula 20](aulas/aula20.pdf)                       |
 | 21      | 18/08/2025 | 5º Acompanhamento de projeto.                                             |                       |
 | 22      | 20/08/2025 | 6º Acompanhamento de projeto.                               |                       |
-| 23      | 25/08/2025 | Frameworks de frontend.                                        |                       |
+| 23      | 25/08/2025 | Frameworks de frontend.                                                  |[Slide aula 23](aulas/aula23.pdf)                      |
 | 24      | 27/08/2025 | Testes de frontend                                                       |                       |
 | 25      | 01/09/2025 | 7º Acompanhamento de projeto                                             |                       |
 | 26      | 03/09/2025 | 8º Acompanhamento de projeto. Entrega 3                                 |                       |
@@ -53,6 +53,7 @@ Formulário de subsmissão do projeto:
 3ª entrega:
 
 ## Planilha de notas
+
 
 
 
