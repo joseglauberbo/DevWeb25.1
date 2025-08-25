@@ -30,12 +30,12 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 18      | 06/08/2025 | 4º Acompanhamento de projeto.                        |                       |
 | 19      | 11/08/2025 | Prática Testes de backend                                               |[Laboratório de Testes de Backend](https://docs.google.com/document/d/17rvjLsodqKteMIJ_JPNgTf0IrZk8l2R0AitJ_ATwWa4/edit?usp=sharing)                       |
 | 20      | 13/08/2025 | Testes de backend                                                       |[Slide aula 20](aulas/aula20.pdf)                       |
-| 21      | 18/08/2025 | Frameworks web frontend I                                               |                       |
-| 22      | 20/08/2025 | Frameworks web frontend II. Miniteste 4                                 |                       |
-| 23      | 25/08/2025 | Integração Backend com Frontend                                         |                       |
+| 21      | 18/08/2025 | 5º Acompanhamento de projeto.                                             |                       |
+| 22      | 20/08/2025 | 6º Acompanhamento de projeto.                               |                       |
+| 23      | 25/08/2025 | Frameworks de frontend.                                        |                       |
 | 24      | 27/08/2025 | Testes de frontend                                                       |                       |
-| 25      | 01/09/2025 | 6º Acompanhamento de projeto                                             |                       |
-| 26      | 03/09/2025 | 7º Acompanhamento de projeto. Entrega 3                                 |                       |
+| 25      | 01/09/2025 | 7º Acompanhamento de projeto                                             |                       |
+| 26      | 03/09/2025 | 8º Acompanhamento de projeto. Entrega 3                                 |                       |
 | 27      | 08/09/2025 | Apresentação do projeto final                                           |                       |
 | 28      | 10/09/2025 | Apresentação do projeto final                                           |                       |
 | 29      | 15/09/2025 | Reposição                                                               |                       |
@@ -53,6 +53,7 @@ Formulário de subsmissão do projeto:
 3ª entrega:
 
 ## Planilha de notas
+
 
 
 
