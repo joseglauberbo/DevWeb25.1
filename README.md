@@ -27,32 +27,34 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 15      | 23/07/2025 | Funcionalidades avançadas e boas práticas APIs RESTful I & Validação de dados no backend  |[Slide aula 15](aulas/aula15.pdf)                 |
 | 16      | 28/07/2025 | PRÁTICA – Autenticação e Autorização                                    |[Laboratório Autenticação e Autorização](https://docs.google.com/document/d/1_0mFIHrHtymhN1EI62MTysMgo7GcVS7nWA9EB__oo8U/edit?usp=sharing)                       |
 | 17      | 30/07/2025 | Funcionalidades avançadas II                                            |[Slide aula 15](aulas/aula15.pdf)|
-| 18      | 06/08/2025 | 4º Acompanhamento de projeto.                        |                       |
-| 19      | 11/08/2025 | Prática Testes de backend                                               |[Laboratório de Testes de Backend](https://docs.google.com/document/d/17rvjLsodqKteMIJ_JPNgTf0IrZk8l2R0AitJ_ATwWa4/edit?usp=sharing)                       |
-| 20      | 13/08/2025 | Testes de backend                                                       |[Slide aula 20](aulas/aula20.pdf)                       |
-| 21      | 18/08/2025 | 5º Acompanhamento de projeto.                                             |                       |
-| 22      | 20/08/2025 | 6º Acompanhamento de projeto.                               |                       |
-| 23      | 25/08/2025 | Frameworks de frontend.                                                  |[Slide aula 23](aulas/aula23.pdf)                      |
-| 24      | 27/08/2025 | Testes de frontend                                                       |                       |
-| 25      | 01/09/2025 | 7º Acompanhamento de projeto                                             |                       |
-| 26      | 03/09/2025 | 8º Acompanhamento de projeto. Entrega 3                                 |                       |
-| 27      | 08/09/2025 | Apresentação do projeto final                                           |                       |
-| 28      | 10/09/2025 | Apresentação do projeto final                                           |                       |
-| 29      | 15/09/2025 | Reposição                                                               |                       |
-| 30      | 22/09/2025 | Finalização da disciplina                                               |                        |
+| 18      | 06/08/2025 | 4º Acompanhamento de projeto.                                           |                       |
+| 19      | 11/08/2025 | Prática Testes de backend                                               |[Laboratório de Testes de Backend](https://docs.google.com/document/d/17rvjLsodqKteMIJ_JPNgTf0IrZk8l2R0AitJ_ATwWa4/edit?usp=sharing)|
+| 20      | 13/08/2025 | Testes de backend                                                       |[Slide aula 20](aulas/aula20.pdf)|
+| 21      | 18/08/2025 | 5º Acompanhamento de projeto.                                           |                       |
+| 22      | 20/08/2025 | 6º Acompanhamento de projeto.                                           |                       |
+| 23      | 25/08/2025 | Frameworks de frontend.                                                 |[Slide aula 23](aulas/aula23.pdf)|
+| 24      | 01/09/2025 | Miniteste - Frontend                                                    |                       |
+| 25      | 03/09/2025 | 7º Acompanhamento de projeto.                                           |                       |
+| 26      | 08/09/2025 | 8º Acompanhamento de projeto. Entrega 3                                 |                       |
+| 27      | 10/09/2025 | Apresentação do projeto final                                           |                       |
+| 28      | 15/09/2025 | Apresentação do projeto final                                           |                       |
+| 29      | 17/09/2025 | Reposição                                                               |                       |
+| 30      | 22/09/2025 | Finalização da disciplina                                               |                       |
 
 
 ## Projeto
 
 Descrição: https://docs.google.com/document/d/1S4f4rd0-ZUjj5JXenJveCN0bLL1a8M2iv929Jx3KIQ0/edit?usp=sharing
 
-Formulário de subsmissão do projeto: 
+Formulário de submissão do projeto: 
 
-1ª entrega: 
-2ª entrega:
+1ª entrega: https://forms.gle/jxjnxevQePjxqPd19
+2ª entrega: https://forms.gle/6A85Wx5EsWLF5rbt6
 3ª entrega:
 
 ## Planilha de notas
+
+https://docs.google.com/spreadsheets/d/1_RH5drBJm0WkQZjUQDwtGbnbJ_XtADsPI6pU6ahhlTY/edit?gid=0#gid=0
 
 
 
