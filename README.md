@@ -17,29 +17,30 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 4       | 16/06/2025 | Node.js, Express e arquitetura REST                                     | [Slide aula 4](aulas/aula4.pdf)|
 | 5       | 18/06/2025 | Miniteste 1 - Criação de servidor inicial.                              | [Miniteste 1](aulas/miniteste1.pdf) e [Form submissão](https://forms.gle/ZbQkbbHstqUUZyrR7)|
 | 6       | 23/06/2025 | Javascript x Typescript e introdução à API RESTful.                     | [Slide aula 6](aulas/aula6.pdf) e [Form teste](https://forms.gle/6i9LZKYBcyiEobJP8)                      |
-| 8       | 30/06/2025 | Definição de requisitos. Modelo de negócios. Métodos HTTP, códigos e mensagens de erro | [Slide aula 8](aulas/aula8.pdf) e [Slide aula 8](aulas/aula81.pdf)             |
-| 9       | 02/07/2025 | Introdução à Arquitetura de Camadas                                     |[Slide aula 9](aulas/aula9.pdf)|
-| 10      | 07/07/2025 | PRÁTICA – Arquitetura de camadas                                        |[Slide aula 10](aulas/aula10.pdf)|
-| 11      | 09/07/2025 | Laboratório de Banco de Dados. Miniteste 2                              |[Laboratório Banco de de dados](https://encurtador.com.br/BNO45)|
-| 12      | 14/07/2025 | 2º Acompanhamento de projeto e apresentação da Documentação             |[Link da documentação](https://docs.google.com/document/d/1MWgy05bVqY-XpS94MN9547IHQQD2CYNVh6NZ-eTQZa4/edit?usp=sharing)|
-| 13      | 16/07/2025 | 3º Acompanhamento de projeto.                                           |                       |
-| 14      | 21/07/2025 | 1ª entrega projeto                                                      |[Link de entrega](https://forms.gle/86gHeeyfrHZUBLW67)|
-| 15      | 23/07/2025 | Funcionalidades avançadas e boas práticas APIs RESTful I & Validação de dados no backend  |[Slide aula 15](aulas/aula15.pdf)                 |
-| 16      | 28/07/2025 | PRÁTICA – Autenticação e Autorização                                    |[Laboratório Autenticação e Autorização](https://docs.google.com/document/d/1_0mFIHrHtymhN1EI62MTysMgo7GcVS7nWA9EB__oo8U/edit?usp=sharing)                       |
-| 17      | 30/07/2025 | Funcionalidades avançadas II                                            |[Slide aula 15](aulas/aula15.pdf)|
-| 18      | 06/08/2025 | 4º Acompanhamento de projeto.                                           |                       |
-| 19      | 11/08/2025 | Prática Testes de backend                                               |[Laboratório de Testes de Backend](https://docs.google.com/document/d/17rvjLsodqKteMIJ_JPNgTf0IrZk8l2R0AitJ_ATwWa4/edit?usp=sharing)|
-| 20      | 13/08/2025 | Testes de backend                                                       |[Slide aula 20](aulas/aula20.pdf)|
-| 21      | 18/08/2025 | 5º Acompanhamento de projeto.                                           |                       |
-| 22      | 20/08/2025 | 6º Acompanhamento de projeto.                                           |                       |
-| 23      | 25/08/2025 | Frameworks de frontend.                                                 |[Slide aula 23](aulas/aula23.pdf)|
-| 24      | 01/09/2025 | Miniteste - Frontend                                                    |[Documento atividade - Frontend](aulas/aula24.pdf)|
-| 25      | 03/09/2025 | 7º Acompanhamento de projeto.                                           |                       |
-| 26      | 08/09/2025 | 8º Acompanhamento de projeto. Entrega 3                                 |                       |
-| 27      | 10/09/2025 | Apresentação do projeto final                                           |                       |
-| 28      | 15/09/2025 | Apresentação do projeto final                                           |                       |
-| 29      | 17/09/2025 | Reposição                                                               |                       |
-| 30      | 22/09/2025 | Finalização da disciplina                                               |                       |
+| 7       | 30/06/2025 | Definição de requisitos. Modelo de negócios. Métodos HTTP, códigos e mensagens de erro | [Slide aula 8](aulas/aula8.pdf) e [Slide aula 8](aulas/aula81.pdf)             |
+| 8       | 02/07/2025 | Introdução à Arquitetura de Camadas                                     |[Slide aula 9](aulas/aula9.pdf)|
+| 9      | 07/07/2025 | PRÁTICA – Arquitetura de camadas                                        |[Slide aula 10](aulas/aula10.pdf)|
+| 10      | 09/07/2025 | Laboratório de Banco de Dados. Miniteste 2                              |[Laboratório Banco de de dados](https://encurtador.com.br/BNO45)|
+| 11      | 14/07/2025 | 2º Acompanhamento de projeto e apresentação da Documentação             |[Link da documentação](https://docs.google.com/document/d/1MWgy05bVqY-XpS94MN9547IHQQD2CYNVh6NZ-eTQZa4/edit?usp=sharing)|
+| 12      | 16/07/2025 | 3º Acompanhamento de projeto.                                           |                       |
+| 13      | 21/07/2025 | 1ª entrega projeto                                                      |[Link de entrega](https://forms.gle/86gHeeyfrHZUBLW67)|
+| 14      | 23/07/2025 | Funcionalidades avançadas e boas práticas APIs RESTful I & Validação de dados no backend  |[Slide aula 15](aulas/aula15.pdf)                 |
+| 15      | 28/07/2025 | PRÁTICA – Autenticação e Autorização                                    |[Laboratório Autenticação e Autorização](https://docs.google.com/document/d/1_0mFIHrHtymhN1EI62MTysMgo7GcVS7nWA9EB__oo8U/edit?usp=sharing)                       |
+| 16      | 30/07/2025 | Funcionalidades avançadas II                                            |[Slide aula 15](aulas/aula15.pdf)|
+| 17      | 06/08/2025 | 4º Acompanhamento de projeto.                                           |                       |
+| 18      | 11/08/2025 | Prática Testes de backend                                               |[Laboratório de Testes de Backend](https://docs.google.com/document/d/17rvjLsodqKteMIJ_JPNgTf0IrZk8l2R0AitJ_ATwWa4/edit?usp=sharing)|
+| 19      | 13/08/2025 | Testes de backend                                                       |[Slide aula 20](aulas/aula20.pdf)|
+| 20      | 18/08/2025 | 5º Acompanhamento de projeto.                                           |                       |
+| 21      | 20/08/2025 | 6º Acompanhamento de projeto.                                           |                       |
+| 22      | 25/08/2025 | Frameworks de frontend.                                                 |[Slide aula 23](aulas/aula23.pdf)|
+| 23      | 01/09/2025 | Miniteste - Frontend                                                    |[Documento atividade - Frontend](aulas/aula24.pdf)|
+| 24      | 03/09/2025 | 7º Acompanhamento de projeto.                                           |                       |
+| 25      | 08/09/2025 | 8º Acompanhamento de projeto. Entrega 3|              |
+| 26      | 10/09/2025 | Entrega 3  |               |
+| 27      | 15/09/2025 | Reposição|                       |
+| 28      | 17/09/2025 | Apresentação do projeto final|                       |
+| 29      | 22/09/2025 | Apresentação do projeto final|                       |
+| 30      | 24/09/2025 | Finalização da disciplina|                       |
 
 
 ## Projeto
@@ -55,6 +56,7 @@ Formulário de submissão do projeto:
 ## Planilha de notas
 
 https://docs.google.com/spreadsheets/d/1_RH5drBJm0WkQZjUQDwtGbnbJ_XtADsPI6pU6ahhlTY/edit?gid=0#gid=0
+
 
 
 
