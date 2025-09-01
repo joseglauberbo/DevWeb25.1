@@ -33,7 +33,7 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 21      | 18/08/2025 | 5º Acompanhamento de projeto.                                           |                       |
 | 22      | 20/08/2025 | 6º Acompanhamento de projeto.                                           |                       |
 | 23      | 25/08/2025 | Frameworks de frontend.                                                 |[Slide aula 23](aulas/aula23.pdf)|
-| 24      | 01/09/2025 | Miniteste - Frontend                                                    |[Slide aula 24](aulas/aula24.pdf)|
+| 24      | 01/09/2025 | Miniteste - Frontend                                                    |[Documento atividade - Frontend](aulas/aula24.pdf)|
 | 25      | 03/09/2025 | 7º Acompanhamento de projeto.                                           |                       |
 | 26      | 08/09/2025 | 8º Acompanhamento de projeto. Entrega 3                                 |                       |
 | 27      | 10/09/2025 | Apresentação do projeto final                                           |                       |
@@ -55,6 +55,7 @@ Formulário de submissão do projeto:
 ## Planilha de notas
 
 https://docs.google.com/spreadsheets/d/1_RH5drBJm0WkQZjUQDwtGbnbJ_XtADsPI6pU6ahhlTY/edit?gid=0#gid=0
+
 
 
 
